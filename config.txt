@@ -1,0 +1,19 @@
+safeewavew
+avefewbaw
+bwa3wbewf w
+ffbf2b32fr 32
+!
+interface FastEthernet 1/0
+  shutdown
+!
+interface GigabitEthernet 0/5
+  switchport mode trunk
+!
+afsvs
+awawe
+w
+!
+afq
+!
+avefewbaw
+!
